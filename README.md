@@ -40,7 +40,6 @@ This project is a backend service for an e-commerce platform built using .NET Co
    ```
    dotnet build
    dotnet run
-
 ## Usage
 ### API Endpoints
 The API endpoints are documented using Swagger. Once the application is running, navigate to http://localhost:5000/swagger to view the API documentation and test the endpoints.
